@@ -1,1 +1,30 @@
 # Full_stack_developer
+A fullstack developer is a software developer that can perform frontend and backend operation plus also has a rich comprehensive set of skills 
+programming language and problem solving aptitude.
+
+Tools Used By A Fullstack Developer 
+Google
+Computer 
+Text Editor
+Stack Overflow and online resources
+
+Languages Full Stack Developers Use.
+
+Front-end:
+Html
+css
+javaScript
+React
+Angular Vue 
+bootstrap 
+tailwind and more
+
+Back-end:
+Php
+Java 
+Node.js 
+Python 
+Ruby 
+Rust 
+Golang 
+C++ C#, SQL, MongoDB and more.
