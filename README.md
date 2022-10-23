@@ -1,30 +1,11 @@
-# Full_stack_developer
-A fullstack developer is a software developer that can perform frontend and backend operation plus also has a rich comprehensive set of skills 
-programming language and problem solving aptitude.
+QUESTION
+a) Create a repository on your Github account with the name "Full_stack_developer".
+b) Clone the repository to your desktop.
+c) Create a file in local version of the repository using the nano text editor on the command line.
+d) In the file explain what you understand by a full stack developer and mention some tools and languages full stack developers use.
+e) Add this file to your local repository.
+f) Push this repository to Github and share the link on the forum for approval.
 
-Tools Used By A Fullstack Developer 
-Google
-Computer 
-Text Editor
-Stack Overflow and online resources
+Please take this task very seriously, the deadline is wednesday next week and all those complete the task will be rewarded with exclusive web development resources.
 
-Languages Full Stack Developers Use.
-
-Front-end:
-Html
-css
-javaScript
-React
-Angular Vue 
-bootstrap 
-tailwind and more
-
-Back-end:
-Php
-Java 
-Node.js 
-Python 
-Ruby 
-Rust 
-Golang 
-C++ C#, SQL, MongoDB and more.
+Thank you
